@@ -19,8 +19,8 @@ function divide(a,b) {
   return number;
 }
 
-function inc(n) {
-  number += n;
+function inc(1) {
+  number += 1;
   return number;
 }
 

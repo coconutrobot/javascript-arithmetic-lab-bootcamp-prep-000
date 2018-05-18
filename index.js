@@ -34,3 +34,7 @@ function makeInt(n) {
   return number;
 }
 
+function preserveDecimal(n) {
+  number = parseFloat(n, 10);
+  return number;
+}
